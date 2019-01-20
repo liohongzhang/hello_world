@@ -12,3 +12,7 @@ npm install --save vue-template-compiler => yarn add vue-template-compiler // �
 
 从线上下载的项目</br>
 npm install => yarn 或 yarn install
+
+chocolate,scoop需在PowerShell下安装
+chocolatey必须在管理员权限下安装
+
